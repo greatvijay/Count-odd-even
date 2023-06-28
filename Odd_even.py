@@ -1,5 +1,4 @@
 #Program to count odd and even
-# By taking inputs from users
 a=[1,2,3,4,5,6,7,8,9]
 length=len(a)
 even=0
